@@ -1,0 +1,10 @@
+[user]
+	name = drusk
+	email = drusk@uvic.ca
+[color]
+	ui = auto
+[alias]
+	aa = add -A
+	st = status
+	ci = commit
+
