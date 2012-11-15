@@ -1,0 +1,3 @@
+alias lxt='lxterminal --working-directory=~'
+alias ipy='ipython'
+alias ipyqt='ipython qtconsole --pylab=inline'
