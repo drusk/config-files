@@ -1,0 +1,5 @@
+Create IPython profiles using:
+
+ipython profile create <name>
+
+The profile configuration will be put somewhere like ~/.config/ipython

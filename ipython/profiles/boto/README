@@ -1,0 +1,5 @@
+Put botokeys.py in the startup directory of the boto ipython profile.
+
+Create a Bash alias to start up ipython with this profile:
+
+alias botodev='ipython --profile=boto'
