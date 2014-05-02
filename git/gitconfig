@@ -11,3 +11,5 @@
         br = branch
 [core]
 	editor = vi
+[push]
+	default = simple
