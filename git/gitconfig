@@ -1,15 +1,15 @@
 [user]
-	name = drusk
-	email = drusk@uvic.ca
+    name = drusk
+    email = drusk@uvic.ca
 [color]
-	ui = auto
+    ui = auto
 [alias]
-	aa = add -A
-	st = status
-	ci = commit
-        co = checkout
-        br = branch
+    aa = add -A
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
 [core]
-	editor = vi
+    editor = vi
 [push]
-	default = simple
+    default = simple
