@@ -6,6 +6,8 @@
 [alias]
     aa = add -A
     st = status
+    d  = diff
+    ds = diff --staged
     ci = commit
     co = checkout
     br = branch
