@@ -3,6 +3,8 @@
     email = drusk@uvic.ca
 [color]
     ui = auto
+[color "status"]
+    untracked = yellow
 [alias]
     aa = add -A
     st = status
